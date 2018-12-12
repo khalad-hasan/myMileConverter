@@ -1,0 +1,8 @@
+README.txt
+setup.py
+myMilePackage/__init__.py
+myMilePackage/mileConverter.py
+myMilePackage.egg-info/PKG-INFO
+myMilePackage.egg-info/SOURCES.txt
+myMilePackage.egg-info/dependency_links.txt
+myMilePackage.egg-info/top_level.txt

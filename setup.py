@@ -1,11 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my-mile-converter',
-    version='0.1',
+    name='myMilePackage',
+    version='0.3',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
-    description='An test python package to convert to miles',
+    description='A test python package',
+	url='https://github.com/khalad-hasan/myMileConverter',
     author='MK Hasan',
     author_email='khalad.hasan@gmail.com'
 )
